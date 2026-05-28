@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+llama-index
+llama-index-vector-stores-postgres
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+langgraph
+psycopg2-binary
+python-dotenv
+networkx
+tree-sitter==0.21.3
+tree-sitter-languages
